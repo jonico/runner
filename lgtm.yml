@@ -1,0 +1,6 @@
+extraction:
+  csharp:
+    index:
+      build_command:
+      - "cd src"
+      - "./dev.sh layout Release linux-x64"
